@@ -10,7 +10,7 @@ Then we will calculate the distance from each color and find the shortest one.
 1. Color Detection in Real Time Using Webcam
 ---------------------------------------------
 
-![](Data/real time colour.gif)
+![](Data/real_time_colour.gif)
 
 2. Color Detection Of Image
 ---------------------------
