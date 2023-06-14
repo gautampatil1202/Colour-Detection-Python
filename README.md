@@ -14,7 +14,7 @@ Then we will calculate the distance from each color and find the shortest one.
 
 2. Color Detection Of Image
 ---------------------------
-![](Data/Image%20color%20Detection%20gif.gif)
+![](Data/colour-detection.gif)
 
 Requirements:
 --------------
